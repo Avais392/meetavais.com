@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="630" fill="#1a1a1a"/>
+<rect x="100" y="100" width="1000" height="430" rx="20" fill="#2a2a2a"/>
+<circle cx="200" cy="200" r="30" fill="#3b82f6"/>
+<rect x="300" y="180" width="200" height="40" rx="8" fill="#10b981"/>
+<rect x="300" y="240" width="150" height="20" rx="4" fill="#6b7280"/>
+<rect x="300" y="280" width="180" height="20" rx="4" fill="#6b7280"/>
+<text x="600" y="250" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">Fintech Mobile App</text>
+<text x="600" y="300" font-family="Arial, sans-serif" font-size="18" fill="#9ca3af">React Native • Stripe • Plaid</text>
+<text x="600" y="350" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">2M+ Users • 99.8% Uptime</text>
+</svg>
