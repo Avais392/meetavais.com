@@ -39,8 +39,8 @@ export default function AboutPage() {
       </div>
       <aside className="md:col-span-1">
         <Image
-          src="/avatar.svg" // Make sure to add your avatar in /public/avatar.svg
-          alt="Your Name"
+          src="/avatar.jpg" // Your professional photo
+          alt="Avais Muhib Ur Rasool"
           width={400}
           height={400}
           className="rounded-full border-2 aspect-square object-cover"
